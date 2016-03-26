@@ -1,3 +1,16 @@
+# Created By :
+
+Scott Stubbs
+FEND - Project 7 Feed reader testing
+3/26/2016
+
+
+# To run 
+
+1) Download the full project code from [my github site](hub (https://github.com/user650/frontend-nanodegree-feedreader.git).
+2) Right click the index.html at the root of the project and execute with any browser.
+
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
